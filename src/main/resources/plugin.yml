@@ -1,0 +1,6 @@
+name: SwimSprintSync
+version: '${version}'
+main: dev.swimsprintsync.SwimSprintSyncPlugin
+description: Targeted client resynchronization workaround for MC-220390
+api-version: '26.1.2'
+load: POSTWORLD
